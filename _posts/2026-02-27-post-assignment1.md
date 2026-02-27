@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-category:
+categories:
     - Assignments
 ---
 
