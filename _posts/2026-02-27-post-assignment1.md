@@ -18,29 +18,29 @@ Looking through the Voyant tools website, we found something interesting: in the
 Although some of the terms, we’ll admit, were in a way expected not to appear as frequently because they are closely tied to objects such as the invisible cloak, we were quite surprised by this analysis, where we can clearly see that even the word spell is barely mentioned in some of the books/articles. This, in some way, shows the drawbacks of using Voyant tools and other forms of distant reading, as mentioned in “Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu.” The context is still something that is missing, and if we truly wanted to understand these trends and why they are so low/high, we would still need to read the book. The best example for this we can clearly see from the Lyingleia’s fanfiction, which, by the data present, makes it difficult to understand why it would be considered a part of a big wizard fiction franchise when it clearly doesn't use most of the terms we associate with magic or wizards in general. 
 
 
-![Heatmap](rlac/assets/images/assignment1/figure3.png)
+![Heatmap](/rlac/assets/images/figure3)
 Figure 3: Heatmap of words such as ‘wand’, ‘magic’, hogwarts, ‘potion, and ‘spell’. 
 
 To get a more precise view, we generated a Heatmap in Posit-Cloud. The results were the following: the NYU version contains zero mentions of "wand" or "spell," and only two instances of "magic." Similarly, Yellowsunchild shows a negligible frequency of these terms. Now that we have the numbers, our next step was to dig deeper into these two stories, to best understand what's actually holding the plot together, if it isn't magic.
 
-![Word Cloud](/assets/images/assignment1/figure4.png)
+![Word Cloud](/rlac/assets/images/figure4.png)
 Figure 4. Word Cloud of Yellowsunchild and Lyingleia’s fanfictions
 
 From an outer lens, we see, of course yellowsunchild’s book having a clear disparity in word frequency between the two corpora. However, both books seem to follow the life of a teenager. In both stories, the characters go through what feels like a university experience. There are mentions of books, notes, dorms, conversations, and even romantic moments, which reflect aspects of student life that many readers may recognize. From these details, the setting can become more relatable to students and highlight the stage of life when people are still figuring themselves out. We wished to understand better when exactly these words appear and within what contexts. 
 
-![Collacoate of Darco in Yellowsunchild](/assets/images/assignment1/figure5.png)
+![Collacoate of Darco in Yellowsunchild](/rlac/assets/images/figure5.png)
 Figure 5. Collocate of Darco in Yellowsunchild’s fanfiction
 
 We used the Collocates tool to look at the words associated with Draco. Given his prominence in the word cloud, he is clearly a central figure in the fanfiction. We see that he is highly linked to social verbs and nouns like "kiss," "lips," and "text." This signals a social lens that moves characters like Harry and Draco out of the "Hero" role and into the "Student" role.
 
-![Word Cloud](/assets/images/assignment1/figure6.png)
+![Word Cloud](/rlac/assets/images/figure6.png)
 Figure 6. Word Cloud of the Two Rowling books and Witchdragon
 
 In contrast, when studying the two Rowling books and the fanfiction by Witchdragon, they use noticeably different vocabulary as opposed to the Yellowsunchild and Lyingleia’s fanfictions. We see terms like “death”, “ wizard, “wand,” “sword,” and “magic” appear, which introduce a darker, more fantastical tone that sharply differs from the university-centered language of the earlier texts.
 These discoveries pushed us to dig deeper into how magical language is used across the series versus fanfiction. We wanted to get a better grasp of how much the canon storyline relies on these words compared to the fan-authored versions. To do this, we used Posit Cloud to measure the density of a "magical vocabulary" list. This allowed us to see not just if the words were there, but how consistent they were throughout each text.
 
 
-![Figure Bar](/assets/images/assignment1/figure7.png)
+![Figure Bar](/rlac/assets/images/figure7.png)
 Figure 7. (Bar Chart) of the Magical Vocabulary per 10,000 words
 
 As shown on the graph, we can see that magic words are much more present in the original books as opposed to in fanfiction. 
