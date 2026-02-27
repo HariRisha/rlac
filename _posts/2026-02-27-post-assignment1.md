@@ -7,7 +7,13 @@ category:
 Growing up, we defined the Harry Potter universe by its 'magical infrastructure', including the physical tools and the iconic villains that drive the plot. When we started this project, we expected words like 'Voldemort' and 'Wand' to be the statistical anchors of every story. It’s almost common sense: Harry Potter is about wizards. However, our research challenged this baseline assumption. Looking at the data, we found a significant gap where some fanfictions barely mention a 'wand' at all. This discovery forces a shift in our perspective. If these core magical elements are missing, what are these stories actually about? Can we even categorize them as 'Harry Potter' novels anymore, or have they become something else entirely?"
 
 
-[Voyant Tools](https://voyant-tools.org/?corpus=2285a99186968a5c7cfd5e8001fcc496&query=voldemort&query=wand&view=Trends)
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 509px; height: 363px;' src='https://voyant-tools.org/tool/Trends/?query=voldemort&query=wand&corpus=2285a99186968a5c7cfd5e8001fcc496'></iframe>
 Figure 1. Relative Frequency Chart between ‘Wand’ and ‘Voldemort across the analyzed texts
 
 
