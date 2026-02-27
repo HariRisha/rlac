@@ -5,6 +5,8 @@ categories:
     - Assignments
 ---
 
+## Introduction
+
 Growing up, we defined the Harry Potter universe by its 'magical infrastructure', including the physical tools and the iconic villains that drive the plot. When we started this project, we expected words like 'Voldemort' and 'Wand' to be the statistical anchors of every story. It’s almost common sense: Harry Potter is about wizards. However, our research challenged this baseline assumption. Looking at the data, we found a significant gap where some fanfictions barely mention a 'wand' at all. This discovery forces a shift in our perspective. If these core magical elements are missing, what are these stories actually about? Can we even categorize them as 'Harry Potter' novels anymore, or have they become something else entirely?"
 
 
@@ -17,6 +19,7 @@ Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 509px; height: 363px;' src='https://voyant-tools.org/tool/Trends/?query=voldemort&query=wand&corpus=2285a99186968a5c7cfd5e8001fcc496'></iframe>
 Figure 1. Relative Frequency Chart between ‘Wand’ and ‘Voldemort across the analyzed texts
 
+## Analysis
 
 Looking through the Voyant tools website, we found something interesting: in the majority of the materials we checked, the number of times wands and Voldemort are mentioned is nearly identical. We found this interesting, as from our knowledge of the movies and some books, wands and the prince of darkness don’t really have any correlations, so it got us wondering, why would this be the case? But at the same time, this graph made us think about another interesting observation. It is common knowledge that Harry Potter books are books about wizards, the most famous line is literally “you are a wizard, Harry”, so when we notice that there are some fanfiction articles that barely contain the word wand we become curious to understand these texts better. 
 
@@ -51,6 +54,8 @@ These discoveries pushed us to dig deeper into how magical language is used acro
 Figure 7. (Bar Chart) of the Magical Vocabulary per 10,000 words
 
 As shown on the graph, we can see that magic words are much more present in the original books as opposed to in fanfiction. 
+
+## Conclusion
 
 Together, our research shows a major shift in how fanfiction uses language compared to the original books. Rowling’s vocabulary is often built around magical conflict, power, and war. In contrast, these fanfiction stories are built on words about relationships, emotional intimacy, and student life. This change shows that for these authors, the human connections are the most important part of the narrative.
 
