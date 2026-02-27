@@ -15,7 +15,7 @@ Looking through the Voyant tools website, we found something interesting: in the
 
 
 <div style="text-align: center;">
-  <img src="/assets/images/fig2.jpg"
+  <img src="rlac/assets/images/fig2.jpg"
        alt="Figure 2">
   <br>
   <em>Figure 2</em>
@@ -24,7 +24,7 @@ Looking through the Voyant tools website, we found something interesting: in the
 Although some of the terms, we’ll admit, were in a way expected not to appear as frequently because they are closely tied to objects such as the invisible cloak, we were quite surprised by this analysis, where we can clearly see that even the word spell is barely mentioned in some of the books/articles. This, in some way, shows the drawbacks of using Voyant tools and other forms of distant reading, as mentioned in “Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu.” The context is still something that is missing, and if we truly wanted to understand these trends and why they are so low/high, we would still need to read the book. The best example for this we can clearly see from the Lyingleia’s fanfiction, which, by the data present, makes it difficult to understand why it would be considered a part of a big wizard fiction franchise when it clearly doesn't use most of the terms we associate with magic or wizards in general. 
 
 
-![Heatmap](/assets/images/assignment1/figure3.png)
+![Heatmap](rlac/assets/images/assignment1/figure3.png)
 Figure 3: Heatmap of words such as ‘wand’, ‘magic’, hogwarts, ‘potion, and ‘spell’. 
 
 To get a more precise view, we generated a Heatmap in Posit-Cloud. The results were the following: the NYU version contains zero mentions of "wand" or "spell," and only two instances of "magic." Similarly, Yellowsunchild shows a negligible frequency of these terms. Now that we have the numbers, our next step was to dig deeper into these two stories, to best understand what's actually holding the plot together, if it isn't magic.
