@@ -1,7 +1,7 @@
 ---
 title: "Assignment 1"
 category:
-    - assignments
+    - Assignments
 ---
 
 Growing up, we defined the Harry Potter universe by its 'magical infrastructure', including the physical tools and the iconic villains that drive the plot. When we started this project, we expected words like 'Voldemort' and 'Wand' to be the statistical anchors of every story. It’s almost common sense: Harry Potter is about wizards. However, our research challenged this baseline assumption. Looking at the data, we found a significant gap where some fanfictions barely mention a 'wand' at all. This discovery forces a shift in our perspective. If these core magical elements are missing, what are these stories actually about? Can we even categorize them as 'Harry Potter' novels anymore, or have they become something else entirely?"
@@ -14,58 +14,36 @@ Figure 1. Relative Frequency Chart between ‘Wand’ and ‘Voldemort across th
 Looking through the Voyant tools website, we found something interesting: in the majority of the materials we checked, the number of times wands and Voldemort are mentioned is nearly identical. We found this interesting, as from our knowledge of the movies and some books, wands and the prince of darkness don’t really have any correlations, so it got us wondering, why would this be the case? But at the same time, this graph made us think about another interesting observation. It is common knowledge that Harry Potter books are books about wizards, the most famous line is literally “you are a wizard, Harry”, so when we notice that there are some fanfiction articles that barely contain the word wand we become curious to understand these texts better. 
 
 
-
+![Relative Frequency Chart](/assets/images/assignment1/Figure%202.%20Relative%20Frequency%20Chart.png)
 Figure 2. Relative Frequency Chart between ‘spell’, ‘flying’, and ‘invisible.’ 
 
 
 Although some of the terms, we’ll admit, were in a way expected not to appear as frequently because they are closely tied to objects such as the invisible cloak, we were quite surprised by this analysis, where we can clearly see that even the word spell is barely mentioned in some of the books/articles. This, in some way, shows the drawbacks of using Voyant tools and other forms of distant reading, as mentioned in “Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu.” The context is still something that is missing, and if we truly wanted to understand these trends and why they are so low/high, we would still need to read the book. The best example for this we can clearly see from the Lyingleia’s fanfiction, which, by the data present, makes it difficult to understand why it would be considered a part of a big wizard fiction franchise when it clearly doesn't use most of the terms we associate with magic or wizards in general. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Heatmap](/assets/images/assignment1/Figure%203.%20Heatmap%20of%20words.png)
 Figure 3: Heatmap of words such as ‘wand’, ‘magic’, hogwarts, ‘potion, and ‘spell’. 
 
 To get a more precise view, we generated a Heatmap in Posit-Cloud. The results were the following: the NYU version contains zero mentions of "wand" or "spell," and only two instances of "magic." Similarly, Yellowsunchild shows a negligible frequency of these terms. Now that we have the numbers, our next step was to dig deeper into these two stories, to best understand what's actually holding the plot together, if it isn't magic.
 
-
-
-
-
-
+![Word Cloud](/assets/images/assignment1/Figure%204.%20Word%20Cloud.png)
 Figure 4. Word Cloud of Yellowsunchild and Lyingleia’s fanfictions
+
 From an outer lens, we see, of course yellowsunchild’s book having a clear disparity in word frequency between the two corpora. However, both books seem to follow the life of a teenager. In both stories, the characters go through what feels like a university experience. There are mentions of books, notes, dorms, conversations, and even romantic moments, which reflect aspects of student life that many readers may recognize. From these details, the setting can become more relatable to students and highlight the stage of life when people are still figuring themselves out. We wished to understand better when exactly these words appear and within what contexts. 
 
-
-
-
-
-
-
-
+![Collacoate of Darco in Yellowsunchild](/assets/images/assignment1/Figure%205.%20Collocate%20of%20Darco.png)
 Figure 5. Collocate of Darco in Yellowsunchild’s fanfiction
 
 We used the Collocates tool to look at the words associated with Draco. Given his prominence in the word cloud, he is clearly a central figure in the fanfiction. We see that he is highly linked to social verbs and nouns like "kiss," "lips," and "text." This signals a social lens that moves characters like Harry and Draco out of the "Hero" role and into the "Student" role.
 
-
-
+![Word Cloud](/assets/images/assignment1/Figure%206.%20Word%20Cloud%20of%20the%20Two%20Rowling%20books.png)
 Figure 6. Word Cloud of the Two Rowling books and Witchdragon
 
 In contrast, when studying the two Rowling books and the fanfiction by Witchdragon, they use noticeably different vocabulary as opposed to the Yellowsunchild and Lyingleia’s fanfictions. We see terms like “death”, “ wizard, “wand,” “sword,” and “magic” appear, which introduce a darker, more fantastical tone that sharply differs from the university-centered language of the earlier texts.
 These discoveries pushed us to dig deeper into how magical language is used across the series versus fanfiction. We wanted to get a better grasp of how much the canon storyline relies on these words compared to the fan-authored versions. To do this, we used Posit Cloud to measure the density of a "magical vocabulary" list. This allowed us to see not just if the words were there, but how consistent they were throughout each text.
 
 
-
+![Figure Bar](/assets/images/assignment1/Figure%207.%20Bar%20Chart%20of%20the%20Magical%20Vocabulary.png)
 Figure 7. (Bar Chart) of the Magical Vocabulary per 10,000 words
 
 As shown on the graph, we can see that magic words are much more present in the original books as opposed to in fanfiction. 
