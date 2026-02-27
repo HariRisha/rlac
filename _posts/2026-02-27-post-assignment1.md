@@ -14,9 +14,12 @@ Figure 1. Relative Frequency Chart between ‘Wand’ and ‘Voldemort across th
 Looking through the Voyant tools website, we found something interesting: in the majority of the materials we checked, the number of times wands and Voldemort are mentioned is nearly identical. We found this interesting, as from our knowledge of the movies and some books, wands and the prince of darkness don’t really have any correlations, so it got us wondering, why would this be the case? But at the same time, this graph made us think about another interesting observation. It is common knowledge that Harry Potter books are books about wizards, the most famous line is literally “you are a wizard, Harry”, so when we notice that there are some fanfiction articles that barely contain the word wand we become curious to understand these texts better. 
 
 
-![Relative Frequency Chart](/assets/images/assignment1/figure2.png)
-Figure 2. Relative Frequency Chart between ‘spell’, ‘flying’, and ‘invisible.’ 
-
+<div style="text-align: center;">
+  <img src="/assets/images/assignment1/figure2.png" 
+       alt="Figure 2">
+  <br>
+  <em>Figure 2</em>
+</div>
 
 Although some of the terms, we’ll admit, were in a way expected not to appear as frequently because they are closely tied to objects such as the invisible cloak, we were quite surprised by this analysis, where we can clearly see that even the word spell is barely mentioned in some of the books/articles. This, in some way, shows the drawbacks of using Voyant tools and other forms of distant reading, as mentioned in “Distant Reading: A Conversation with Ama Bemma Adwetewa-Badu.” The context is still something that is missing, and if we truly wanted to understand these trends and why they are so low/high, we would still need to read the book. The best example for this we can clearly see from the Lyingleia’s fanfiction, which, by the data present, makes it difficult to understand why it would be considered a part of a big wizard fiction franchise when it clearly doesn't use most of the terms we associate with magic or wizards in general. 
 
