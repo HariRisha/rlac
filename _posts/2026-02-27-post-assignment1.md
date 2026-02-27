@@ -1,5 +1,6 @@
 ---
 title: "Assignment 1"
+excerpt_seperator: ""
 categories:
     - Assignments
 ---
