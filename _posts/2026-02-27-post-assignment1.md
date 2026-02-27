@@ -15,7 +15,7 @@ Looking through the Voyant tools website, we found something interesting: in the
 
 
 <div style="text-align: center;">
-  <img src="/assets/images/assignment1/figure2.png" 
+  <img src="/assets/images/Figure 2. Relative Frequency Chart.jpg"
        alt="Figure 2">
   <br>
   <em>Figure 2</em>
