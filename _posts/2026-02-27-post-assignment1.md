@@ -74,5 +74,14 @@ This does not mean that the wizarding world of fanfiction has been discarded. Ra
 
 Through distant reading tools such as Voyant tools and Posit Cloud, we can easily observe how lexical patterns reflect deeper narrative transformations. So, to answer our earlier question, if Harry Potter is not a book about wizardry, perhaps it is about human relations and emotions in the wizarding world. 
 
+## References
+
+Distant reading. New Books Network. From https://newbooksnetwork.com/distant-reading
+Quora.com. From https://www.quora.com 
+
+What-would-happen-if-the-Harry-Potter-series-was-without-magic
+
+Archive.Ph. From https://archive.ph/8kDTp#selection-2567.22-2567.58
+
 
 Ready for grading.
