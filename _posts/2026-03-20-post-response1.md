@@ -64,7 +64,7 @@ Finally, certain words signaled fan fiction specifically rather than the origina
 chapter appearing as a high-frequency word (authors addressing readers between chapters)
 text and phone collocating with Draco (modern AU settings impossible in canon)
 The presence of original character names like Mudiwa, Freja, and Adonis in Figure 2
-—-----
+—
 Overall, this experiment proved that visualizations are not standalone tools for understanding. Both humans and LLMs use context, either supplied or understood, to interpret them. Although LLMs can use context to interpret a visualization, they are not always able to do so correctly and can provide false information.
 
 This suggests that when using visualization in academic writing, it is very important to provide LLMs with carefully curated context.
