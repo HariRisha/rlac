@@ -47,7 +47,7 @@ As with the previous model, this one also just interpreted the graphs the way th
 This, of course, makes the question of whether the visuals actually speak on their own a more complex one.
 The answer remains the same: no, but visuals may carry latent contextual signals that trained systems can recognize.
 
-`
+```
 Great question! I didn't use any external resources — the identification came entirely from clues visible within the three figures themselves. Here's the reasoning:
 Character Names as Evidence
 The most decisive clue was the co-occurrence of multiple highly specific names that belong to the same fictional universe:
@@ -68,11 +68,11 @@ The presence of original character names like Mudiwa, Freja, and Adonis in Figur
 Overall, this experiment proved that visualizations are not standalone tools for understanding. Both humans and LLMs use context, either supplied or understood, to interpret them. Although LLMs can use context to interpret a visualization, they are not always able to do so correctly and can provide false information.
 
 This suggests that when using visualization in academic writing, it is very important to provide LLMs with carefully curated context.
-`
+```
 
-## Additional Research 
+# Additional Research 
 
-# Although not part of the main analysis, I briefly explored an additional tool.
+## Although not part of the main analysis, I briefly explored an additional tool.
 
 I was talking to my friend about the different AIs available and which was best for what and he recommended I try a browser by Perplexity called “Comet”. The browser is AI powered which allows it to analyze and interact with the data that is on the screen on its own. I decided to play a bit with it and opened my homework and let the AI analyze it.
 
