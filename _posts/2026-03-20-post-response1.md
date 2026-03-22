@@ -70,7 +70,7 @@ Overall, this experiment proved that visualizations are not standalone tools for
 
 This suggests that when using visualization in academic writing, it is very important to provide LLMs with carefully curated context.
 
-READY FOR GRADING
+**READY FOR GRADING**
 
 # Additional Research 
 
