@@ -5,3 +5,5 @@ main:
     url: /responses/
   - title: "About"
     url: /about/
+  - title: "Extra Credit"
+    url: /extra-credit/
